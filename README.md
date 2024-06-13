@@ -1,0 +1,2 @@
+# SkymodLinkedin
+veri analizi dashboard
